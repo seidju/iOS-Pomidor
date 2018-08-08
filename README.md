@@ -6,3 +6,4 @@ Here will be published different questions, that every iOS Developer should know
  - [ ] Where **reference** and **value** objects are stored? What is **heap** and **stack**?
  - [ ] Describe step-by-step how **ARC** works. Is there any differecnes between Objective-C and Swift?
  - [ ] What is **autoreleasepool** and when you should use it?
+ - [ ] What is **method dispatch**? When you should use **dynamic**, **objc**, **nonobjc**, **final**?
