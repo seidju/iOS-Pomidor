@@ -14,3 +14,8 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [ ] What is **autoreleasepool** and when you should use it?
  - [ ] What is **method dispatch**? When you should use **dynamic**, **objc**, **nonobjc**, **final**?
  - [ ] What is **shallow** and **deep** copying?
+
+#### 2. Architectures
+ - [ ] VIPER
+ - [ ] Riblet
+ 
