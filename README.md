@@ -6,9 +6,7 @@ Here will be published different questions, that every iOS Developer should know
 
 So, as everyone knows, **weak** and **unowned** used to break reference cycles, so ARC could successfully dealloc unused class object. A **weak** reference is a reference that does not keep a strong hold on the instance it refers to, and so it’s possible for that instance to be deallocated while the **weak** reference is still referring to it. Therefore, ARC automatically sets a **weak** reference to nil when the instance that it refers to is deallocated. And, because **weak** references need to allow their value to be changed to nil at runtime, they are always declared as variables, rather than constants, of an optional type. You can check for the existence of a value in the **weak** reference, just like any other optional value, and you will never end up with a reference to an invalid instance that no longer exists.
 
-#### FYI:
-
-Property observers aren’t called when ARC sets a weak reference to nil.
+#### FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
  
  - [ ] Where **reference** and **value** objects are stored? What is **heap** and **stack**?
