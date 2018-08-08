@@ -27,4 +27,4 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
 #### 4. Swift lang
  - [ ] Type erasure, type inference
  - [ ] Method swizzling
- - [ ] What is **method dispatch**? When you should use **dynamic**, **objc**, **nonobjc**, **final**?
+ - [ ] What is **method dispatch**? When you should use **dynamic**, **@objc**, **@nonobjc**, **final**?
