@@ -18,4 +18,7 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
 #### 2. Architectures
  - [ ] VIPER
  - [ ] Riblets
+ - [ ] Clean Architecture
+ - [ ] MVP
+ - [ ] MVVM
  
