@@ -3,4 +3,4 @@ Here will be published different questions, that every iOS Developer should know
 
 #### 1. Memory Management
  - [ ] What is the difference between **weak** and **unknown**
-
+ - [ ] Where **reference** and **value** objects are stored? What is **heap** and **stack**?
