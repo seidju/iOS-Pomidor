@@ -26,6 +26,9 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [ ] 10 Tips to prevent UITableView/UICollectionView from frame drop.
  - [ ] CALayers
  - [ ] XIB vs code layout
+ - [ ] UIResponder chain
+ - [ ] How to handle parent view interaction in complexe sub-view hierarchy?
+ 
 #### 4. Swift lang
  - [ ] Type erasure, type inference
  - [ ] Method swizzling
