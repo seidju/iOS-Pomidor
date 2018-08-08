@@ -7,3 +7,4 @@ Here will be published different questions, that every iOS Developer should know
  - [ ] Describe step-by-step how **ARC** works. Is there any differecnes between Objective-C and Swift?
  - [ ] What is **autoreleasepool** and when you should use it?
  - [ ] What is **method dispatch**? When you should use **dynamic**, **objc**, **nonobjc**, **final**?
+ - [ ] What is **shallow** and **deep** copying?
