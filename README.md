@@ -12,7 +12,6 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [ ] Where **reference** and **value** objects are stored? What is **heap** and **stack**?
  - [ ] Describe step-by-step how **ARC** works. Is there any differecnes between Objective-C and Swift?
  - [ ] What is **autoreleasepool** and when you should use it?
- - [ ] What is **method dispatch**? When you should use **dynamic**, **objc**, **nonobjc**, **final**?
  - [ ] What is **shallow** and **deep** copying?
 
 #### 2. Architectures
@@ -24,3 +23,8 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
 #### 3. UIKit
  - [ ] CALayer and UIView. Can UIView have no any layers? UIView hiearachy and corresponing CALayer hierarchy?
+
+#### 4. Swift lang
+ - [ ] Type erasure, type inference
+ - [ ] Method swizzling
+ - [ ] What is **method dispatch**? When you should use **dynamic**, **objc**, **nonobjc**, **final**?
