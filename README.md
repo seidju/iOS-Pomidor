@@ -20,6 +20,7 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [ ] Clean Architecture
  - [ ] MVP
  - [ ] MVVM
+ - [ ] 4V Engine
  
 #### 3. UIKit
  - [ ] CALayer and UIView. Can UIView have no any layers? UIView hiearachy and corresponing CALayer hierarchy?
