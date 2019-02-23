@@ -9,8 +9,16 @@ So, as everyone knows, **weak** and **unowned** used to break reference cycles, 
 FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
  
- - [ ] Where **reference** and **value** objects are stored? What is **heap** and **stack**?
- - [ ] Describe step-by-step how **ARC** works. Is there any differecnes between Objective-C and Swift?
+ - [x] Where **reference** and **value** objects are stored? What is **heap** and **stack**?
+   https://medium.com/@abhimuralidharan/difference-between-value-type-and-a-reference-type-in-ios-swift-18cb5145ad7a
+   https://stackoverflow.com/questions/27441456/swift-stack-heap-understanding
+   https://medium.com/devslopes-blog/swift-data-structures-heap-e3fbbdaa3129
+   
+ - [x] Describe step-by-step how **ARC** works. Is there any differecnes between Objective-C and Swift?
+   https://medium.com/computed-comparisons/garbage-collection-vs-automatic-reference-counting-a420bd4c7c81
+   https://medium.com/@ITZDERR/ios-memory-management-history-high-level-part-1-118f57b613d6
+   https://medium.com/@ITZDERR/ios-memory-management-arc-in-objective-c-and-swift-part2-f8d269c5e9c
+
  - [ ] What is **autoreleasepool** and when you should use it?
  - [ ] What is **shallow** and **deep** copying?
 
