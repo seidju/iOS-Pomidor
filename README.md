@@ -8,7 +8,6 @@ So, as everyone knows, **weak** and **unowned** used to break reference cycles, 
 
 FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
- 
  - [x] Where **reference** and **value** objects are stored? What is **heap** and **stack**?
    https://medium.com/@abhimuralidharan/difference-between-value-type-and-a-reference-type-in-ios-swift-18cb5145ad7a
    https://stackoverflow.com/questions/27441456/swift-stack-heap-understanding
@@ -29,16 +28,36 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [ ] MVP
  - [ ] MVVM
  - [ ] 4V Engine
+
+#### 3. Design Patterns
+ - [ ] SOLID, DRY principles
+ - [ ] Adapter, Mediator
+ - [ ] Composition vs Inheritance
+ - [ ] Chain of responsibility
+ - [ ] Abstract factory, factory method
+ - [ ] Observer
  
-#### 3. UIKit
+#### 4. UIKit
  - [ ] CALayer and UIView. Can UIView have no any layers? UIView hiearachy and corresponing CALayer hierarchy?
  - [ ] 10 Tips to prevent UITableView/UICollectionView from frame drop.
  - [ ] CALayers
  - [ ] XIB vs code layout
  - [ ] UIResponder chain
  - [ ] How to handle parent view interaction in complexe sub-view hierarchy?
+ - [ ] CALayer vs CGLayer
+ - [ ] Frame vs bounds. Cases when change frame and when bounds.
  
-#### 4. Swift lang
- - [ ] Type erasure, type inference
+ 
+#### 5. Swift lang
+ - [ ] Performance improvements
+   https://developer.apple.com/videos/play/wwdc2016/416/
+   
+ - [ ] Type erasure
+ - [ ] Type inference
  - [ ] Method swizzling
  - [ ] What is **method dispatch**? When you should use **dynamic**, **@objc**, **@nonobjc**, **final**?
+ 
+ #### 6. Testing
+  https://developer.apple.com/videos/play/wwdc2018/417/
+  https://github.com/seidju/unit-testing-swift
+  https://www.youtube.com/watch?v=ny2ygMN8waE&feature=youtu.be
