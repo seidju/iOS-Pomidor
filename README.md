@@ -54,8 +54,9 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
 #### 5. Swift lang
  - [ ] Performance improvements
-   https://developer.apple.com/videos/play/wwdc2016/416/
-   
+  https://developer.apple.com/videos/play/wwdc2016/416/
+  https://developer.apple.com/videos/play/wwdc2018/407
+
  - [ ] Type erasure
  - [ ] Type inference
  - [ ] Method swizzling
