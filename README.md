@@ -9,18 +9,14 @@ So, as everyone knows, **weak** and **unowned** used to break reference cycles, 
 FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
  - [x] Where **reference** and **value** objects are stored? What is **heap** and **stack**?
-   https://medium.com/@abhimuralidharan/difference-between-value-type-and-a-reference-type-in-ios-swift-18cb5145ad7a
+   * https://medium.com/@abhimuralidharan/difference-between-value-type-and-a-reference-type-in-ios-swift-18cb5145ad7a
+   * https://stackoverflow.com/questions/27441456/swift-stack-heap-understanding
+   * https://medium.com/devslopes-blog/swift-data-structures-heap-e3fbbdaa3129
    
-   https://stackoverflow.com/questions/27441456/swift-stack-heap-understanding
-   
-   https://medium.com/devslopes-blog/swift-data-structures-heap-e3fbbdaa3129
-   
- - [x] Describe step-by-step how **ARC** works. Is there any differecnes between Objective-C and Swift?
-   https://medium.com/computed-comparisons/garbage-collection-vs-automatic-reference-counting-a420bd4c7c81
-   
-   https://medium.com/@ITZDERR/ios-memory-management-history-high-level-part-1-118f57b613d6
-   
-   https://medium.com/@ITZDERR/ios-memory-management-arc-in-objective-c-and-swift-part2-f8d269c5e9c
+ - [x] Describe step-by-step how **ARC** works. Is there any differecnes between Objective-C and Swift
+   * https://medium.com/computed-comparisons/garbage-collection-vs-automatic-reference-counting-a420bd4c7c81
+   * https://medium.com/@ITZDERR/ios-memory-management-history-high-level-part-1-118f57b613d6
+   * https://medium.com/@ITZDERR/ios-memory-management-arc-in-objective-c-and-swift-part2-f8d269c5e9c
 
  - [ ] What is **autoreleasepool** and when you should use it?
  - [ ] What is **shallow** and **deep** copying?
@@ -54,8 +50,8 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
 #### 5. Swift lang
  - [ ] Performance improvements
-  https://developer.apple.com/videos/play/wwdc2016/416/
-  https://developer.apple.com/videos/play/wwdc2018/407
+  * https://developer.apple.com/videos/play/wwdc2016/416/
+  * https://developer.apple.com/videos/play/wwdc2018/407
 
  - [ ] Type erasure
  - [ ] Type inference
@@ -63,8 +59,6 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [ ] What is **method dispatch**? When you should use **dynamic**, **@objc**, **@nonobjc**, **final**?
  
  #### 6. Testing
-  https://developer.apple.com/videos/play/wwdc2018/417/
-  
-  https://github.com/seidju/unit-testing-swift
+  * https://github.com/seidju/unit-testing-swift
   
   https://www.youtube.com/watch?v=ny2ygMN8waE&feature=youtu.be
