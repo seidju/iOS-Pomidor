@@ -21,16 +21,19 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [x] What is **autoreleasepool** and when you should use it?
    * https://en.swifter.tips/autoreleasepool/
 
- - [ ] What is **shallow** and **deep** copying?
+ - [x] What is **shallow** and **deep** copying?
+   * https://medium.freecodecamp.org/deep-copy-vs-shallow-copy-and-how-you-can-use-them-in-swift-c623833f5ad3
 
 #### 2. Architectures
  - [x] VIPER
    * https://github.com/strongself/The-Book-of-VIPER
- 
- - [ ] Riblets
- - [ ] Clean Architecture
- - [ ] MVP
- - [ ] MVVM
+
+ - [x] RIBs
+   * https://github.com/uber/RIBs
+  
+ - [x] Feedback loop, RxFeedback
+   * https://github.com/NoTests/RxFeedback.swift
+
  - [ ] 4V Engine
 
 #### 3. Design Patterns
