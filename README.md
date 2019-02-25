@@ -18,11 +18,15 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
    * https://medium.com/@ITZDERR/ios-memory-management-history-high-level-part-1-118f57b613d6
    * https://medium.com/@ITZDERR/ios-memory-management-arc-in-objective-c-and-swift-part2-f8d269c5e9c
 
- - [ ] What is **autoreleasepool** and when you should use it?
+ - [x] What is **autoreleasepool** and when you should use it?
+   * https://en.swifter.tips/autoreleasepool/
+
  - [ ] What is **shallow** and **deep** copying?
 
 #### 2. Architectures
- - [ ] VIPER
+ - [x] VIPER
+   * https://github.com/strongself/The-Book-of-VIPER
+ 
  - [ ] Riblets
  - [ ] Clean Architecture
  - [ ] MVP
@@ -49,7 +53,7 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
  
 #### 5. Swift lang
- - [ ] Performance improvements
+ - [x] Performance improvements
   * https://developer.apple.com/videos/play/wwdc2016/416/
   * https://developer.apple.com/videos/play/wwdc2018/407
 
@@ -60,5 +64,4 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
  #### 6. Testing
   * https://github.com/seidju/unit-testing-swift
-  
-  https://www.youtube.com/watch?v=ny2ygMN8waE&feature=youtu.be
+  * https://www.youtube.com/watch?v=ny2ygMN8waE&feature=youtu.be
