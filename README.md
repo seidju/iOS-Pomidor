@@ -54,8 +54,8 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
 #### 5. Swift lang
  - [x] Performance improvements
-  * https://developer.apple.com/videos/play/wwdc2016/416/
-  * https://developer.apple.com/videos/play/wwdc2018/407
+   * https://developer.apple.com/videos/play/wwdc2016/416/
+   * https://developer.apple.com/videos/play/wwdc2018/407
 
  - [ ] Type erasure
  - [ ] Type inference
@@ -63,5 +63,5 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [ ] What is **method dispatch**? When you should use **dynamic**, **@objc**, **@nonobjc**, **final**?
  
  #### 6. Testing
-  * https://github.com/seidju/unit-testing-swift
-  * https://www.youtube.com/watch?v=ny2ygMN8waE&feature=youtu.be
+   * https://github.com/seidju/unit-testing-swift
+   * https://www.youtube.com/watch?v=ny2ygMN8waE&feature=youtu.be
