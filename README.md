@@ -42,10 +42,16 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
    * https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161
    * https://www.scaledrone.com/blog/solid-principles-for-becoming-a-better-ios-swift-developer/
 
- - [ ] Adapter, Mediator
+ - [x] Adapter
+   * https://github.com/ochococo/Design-Patterns-In-Swift#-adapter
+
+ - [x] Mediator
+   * https://github.com/ochococo/Design-Patterns-In-Swift#-mediator
+
  - [ ] Composition vs Inheritance
- - [ ] Chain of responsibility
- - [ ] Abstract factory, factory method
+ - [x] Abstract factory, factory method
+   * https://github.com/ochococo/Design-Patterns-In-Swift#creational
+
  - [ ] Observer
  
 #### 4. UIKit
