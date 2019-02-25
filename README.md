@@ -48,7 +48,9 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [x] Mediator
    * https://github.com/ochococo/Design-Patterns-In-Swift#-mediator
 
- - [ ] Composition vs Inheritance
+ - [x] Composition vs Inheritance
+   * https://medium.com/ios-os-x-development/protocol-oriented-programming-in-swift-daba92bc9c98
+
  - [x] Abstract factory, factory method
    * https://github.com/ochococo/Design-Patterns-In-Swift#creational
 
@@ -56,7 +58,11 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  
 #### 4. UIKit
  - [ ] CALayer and UIView. Can UIView have no any layers? UIView hiearachy and corresponing CALayer hierarchy?
- - [ ] 10 Tips to prevent UITableView/UICollectionView from frame drop.
+ - [x] 10 Tips to prevent UITableView/UICollectionView from frame drop.
+   * https://www.raywenderlich.com/2752-25-ios-app-performance-tips-tricks#shadowpath
+   * https://sohabr.net/habr/post/264817/
+   * https://medium.com/capital-one-tech/smooth-scrolling-in-uitableview-and-uicollectionview-a012045d77f
+ 
  - [ ] CALayers
  - [ ] XIB vs code layout
  - [ ] UIResponder chain
