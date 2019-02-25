@@ -37,7 +37,11 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [ ] 4V Engine
 
 #### 3. Design Patterns
- - [ ] SOLID, DRY principles
+ - [x] SOLID, DRY principles
+   * https://marcosantadev.com/solid-principles-applied-swift/
+   * https://code.tutsplus.com/tutorials/3-key-software-principles-you-must-understand--net-25161
+   * https://www.scaledrone.com/blog/solid-principles-for-becoming-a-better-ios-swift-developer/
+
  - [ ] Adapter, Mediator
  - [ ] Composition vs Inheritance
  - [ ] Chain of responsibility
