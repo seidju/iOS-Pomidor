@@ -63,11 +63,15 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
    * https://sohabr.net/habr/post/264817/
    * https://medium.com/capital-one-tech/smooth-scrolling-in-uitableview-and-uicollectionview-a012045d77f
  
- - [ ] CALayers
  - [ ] XIB vs code layout
- - [ ] UIResponder chain
+ - [x] UIResponder chain
+   * https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/using_responders_and_the_responder_chain_to_handle_events
+   * https://medium.com/ios-os-x-development/understanding-cocoa-and-cocoa-touch-responder-chain-12fe558ebe97
  - [ ] How to handle parent view interaction in complexe sub-view hierarchy?
- - [ ] CALayer vs CGLayer
+ - [x] CALayer vs CGLayer
+   * https://stackoverflow.com/questions/4458812/whats-the-difference-and-compatibility-of-cglayer-and-calayer
+   * https://blog.spacemanlabs.com/2011/07/calayers-v-cglayers-or-which-layer-player/
+ 
  - [ ] Frame vs bounds. Cases when change frame and when bounds.
  
  
@@ -79,7 +83,9 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [ ] Type erasure
  - [ ] Type inference
  - [ ] Method swizzling
- - [ ] What is **method dispatch**? When you should use **dynamic**, **@objc**, **@nonobjc**, **final**?
+ - [x] What is **method dispatch**? When you should use **dynamic**, **@objc**, **@nonobjc**, **final**?
+   * https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/
+   
  
  #### 6. Testing
    * https://github.com/seidju/unit-testing-swift
