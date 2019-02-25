@@ -65,3 +65,4 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  #### 6. Testing
    * https://github.com/seidju/unit-testing-swift
    * https://www.youtube.com/watch?v=ny2ygMN8waE&feature=youtu.be
+   * https://habr.com/ru/company/rambler-co/blog/263087/
