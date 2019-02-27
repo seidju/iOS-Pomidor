@@ -57,13 +57,17 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
  - [ ] Observer
  
 #### 4. UIKit
- - [ ] CALayer and UIView. Can UIView have no any layers? UIView hiearachy and corresponing CALayer hierarchy?
+ - [x] CALayer and UIView. Can UIView have no any layers? UIView hiearachy and corresponing CALayer hierarchy?
+   * https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/CoreAnimation_guide/BuildingaLayerHierarchy/BuildingaLayerHierarchy.html
+ 
  - [x] 10 Tips to prevent UITableView/UICollectionView from frame drop.
    * https://www.raywenderlich.com/2752-25-ios-app-performance-tips-tricks#shadowpath
    * https://sohabr.net/habr/post/264817/
    * https://medium.com/capital-one-tech/smooth-scrolling-in-uitableview-and-uicollectionview-a012045d77f
  
- - [ ] XIB vs code layout
+ - [x] XIB vs code layout
+   * https://www.toptal.com/ios/ios-user-interfaces-storyboards-vs-nibs-vs-custom-code
+
  - [x] UIResponder chain
    * https://developer.apple.com/documentation/uikit/touches_presses_and_gestures/using_responders_and_the_responder_chain_to_handle_events
    * https://medium.com/ios-os-x-development/understanding-cocoa-and-cocoa-touch-responder-chain-12fe558ebe97
@@ -72,7 +76,11 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
    * https://stackoverflow.com/questions/4458812/whats-the-difference-and-compatibility-of-cglayer-and-calayer
    * https://blog.spacemanlabs.com/2011/07/calayers-v-cglayers-or-which-layer-player/
  
- - [ ] Frame vs bounds. Cases when change frame and when bounds.
+ - [x] Frame vs bounds. Cases when change frame and when bounds.
+   * https://stackoverflow.com/questions/1210047/cocoa-whats-the-difference-between-the-frame-and-the-bounds
+   * https://medium.com/@GanChau/uiview-frame-vs-bounds-195b9688bde3
+   * https://www.hackingwithswift.com/example-code/uikit/whats-the-difference-between-frame-and-bounds
+   
  
  
 #### 5. Swift lang
@@ -80,8 +88,12 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
    * https://developer.apple.com/videos/play/wwdc2016/416/
    * https://developer.apple.com/videos/play/wwdc2018/407
 
- - [ ] Type erasure
- - [ ] Type inference
+ - [x] Type erasure
+   * https://www.bignerdranch.com/blog/breaking-down-type-erasures-in-swift/
+ 
+ - [x] Type inference
+   * https://www.aidanf.net/learn-swift/types_and_type_inference
+  
  - [ ] Method swizzling
  - [x] What is **method dispatch**? When you should use **dynamic**, **@objc**, **@nonobjc**, **final**?
    * https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/
