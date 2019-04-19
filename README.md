@@ -20,6 +20,7 @@ FYI: Property observers aren’t called when ARC sets a weak reference to nil.
 
  - [x] What is **autoreleasepool** and when you should use it?
    * https://en.swifter.tips/autoreleasepool/
+   * https://medium.com/fueled-engineering/memory-management-in-swift-common-issues-90dd7c08b77
 
  - [x] What is **shallow** and **deep** copying?
    * https://medium.freecodecamp.org/deep-copy-vs-shallow-copy-and-how-you-can-use-them-in-swift-c623833f5ad3
